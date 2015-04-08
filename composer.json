@@ -18,5 +18,5 @@
             "tihanyil\\yii2\\scraper\\": ""
         }
     },
-	"minimum-stability": "dev
+	"minimum-stability": "stable"
 }
